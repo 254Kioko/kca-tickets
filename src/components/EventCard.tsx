@@ -23,7 +23,7 @@ export const EventCard = ({ onAddToCart }: EventCardProps) => {
         <div className="space-y-3 text-foreground">
           <div className="flex items-center gap-3">
             <Calendar className="h-5 w-5 text-primary" />
-            <span>Monday to Wednesday</span>
+            <span>Monday 6th October to Wednesday 8th October</span>
           </div>
           <div className="flex items-center gap-3">
             <MapPin className="h-5 w-5 text-primary" />

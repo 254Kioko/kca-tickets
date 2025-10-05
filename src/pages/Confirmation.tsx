@@ -26,7 +26,7 @@ const Confirmation = () => {
       buyerName: buyerInfo.name,
       buyerEmail: buyerInfo.email,
       eventName: 'Tech Innovation Summit',
-      eventDate: 'Monday to Wednesday',
+      eventDate: 'Monday 6th October to Wednesday 8th October',
       venue: 'KCA University',
       ticketId: `TIS-${Date.now().toString().slice(-8)}`,
       quantity: quantity,
